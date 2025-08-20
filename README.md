@@ -9,6 +9,39 @@ Recibe dos archivos de txt.
 - Cadenas.txt = cadenas de prueba
 
 ---
+### Formato archivos de entrada
+
+- Config.txt
+  
+      # lista de estados
+      Q = q0,q1,q2,q3
+      # alfabeto
+      Sigma = 0,1
+      # Estado inicial
+      q0 = q0
+      # Estados de acceptación 
+      F = q2
+      # Matriz de transiciones: estado, símbolo = destino
+      delta = 
+      q0,0=q1
+      q0,1=q0
+      q1,0=q2
+      q1,1=q3
+      q2,0=q2
+      q2,1=q1
+      q3,0=q3
+      q3,1=q2
+
+- Cadenas.txt
+
+        # cadenas de prueba
+        001
+        101
+        0011
+        1100
+        1
+
+---
 
 ### Casos de pruebas
 
