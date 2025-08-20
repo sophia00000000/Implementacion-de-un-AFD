@@ -1,0 +1,13 @@
+# solo acepta cadenas con as
+Q = q1,q2,q3
+Sigma = a,b
+q0 = q1
+F = q2
+# Matriz de transiciones: estado, símbolo → destino
+delta = 
+q1,a =q2
+q1,b=q3
+q2,a=q2
+q2,b=q3
+q3,a=q3
+q3,b=q3
