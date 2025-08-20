@@ -1,6 +1,6 @@
 # Implementacion-de-un-AFD
 
-Implementación de un AFD en C y en Python.
+Implementación de un automata finito determinista en C y en Python.
 
 Recibe dos archivos de txt.
 
@@ -43,7 +43,7 @@ Recibe dos archivos de txt.
 
 ---
 
-### Casos de pruebas
+### Casos de prueba
 
 ### 1.
 
@@ -52,6 +52,8 @@ Python:
 <img width="727" height="350" alt="imagen" src="https://github.com/user-attachments/assets/af822653-01cd-4226-92a3-b91d19c5b578" />
 
 C:
+
+<img width="796" height="320" alt="imagen" src="https://github.com/user-attachments/assets/96a73608-df3e-4115-9d78-ac5e21723e72" />
 
 
 ### 2
@@ -63,6 +65,9 @@ Python:
 <img width="711" height="405" alt="imagen" src="https://github.com/user-attachments/assets/339f6b33-4bbe-4503-945e-2a1cfb38d7e5" />
 
 C:
+
+<img width="796" height="414" alt="imagen" src="https://github.com/user-attachments/assets/e5ecbe0a-2554-4483-a139-698790b86a2c" />
+
 
 
 
@@ -76,11 +81,22 @@ Python:
 
 C:
 
+<img width="796" height="428" alt="imagen" src="https://github.com/user-attachments/assets/dac4c6e8-d046-497a-9051-a416c04883d6" />
+
+
+
 ### 4
+
+Solo acpeta cadenas que inicien con a
 
 <img width="222" height="184" alt="imagen" src="https://github.com/user-attachments/assets/07c5ee59-ae2e-4a0a-bb44-10427874fe37" />
 
 Python:
 
+<img width="795" height="363" alt="imagen" src="https://github.com/user-attachments/assets/3a2a4271-4fcb-4c4e-88b5-2ff8ccb4bdd0" />
+
+
 
 C:
+
+<img width="795" height="363" alt="imagen" src="https://github.com/user-attachments/assets/196fbebe-3caa-48df-bcc7-a0bdd368a5c8" />
