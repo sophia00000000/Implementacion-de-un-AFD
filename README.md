@@ -75,3 +75,12 @@ Python:
 <img width="704" height="436" alt="imagen" src="https://github.com/user-attachments/assets/b30c8503-a965-4404-8b76-3abcff4c6b25" />
 
 C:
+
+### 4
+
+<img width="222" height="184" alt="imagen" src="https://github.com/user-attachments/assets/07c5ee59-ae2e-4a0a-bb44-10427874fe37" />
+
+Python:
+
+
+C:
